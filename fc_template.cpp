@@ -1,6 +1,3 @@
-// Szablon dla przedmiotu Fotogrametria cyfrowa
-// Autor: Krzysztof Bruniecki bruno@eti.pg.gda.pl
-// Gdañsk 2016.02.25
 
 #include "stdafx.h"
 #include "opencv2/opencv.hpp"
